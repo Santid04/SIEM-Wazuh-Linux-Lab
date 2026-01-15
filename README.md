@@ -16,11 +16,6 @@ El objetivo es validar la recolección de logs, la detección de eventos relevan
   - Wazuh Dashboard
 - Agente Linux (VM monitoreada)
 
-### Comunicación
-- Agente → Manager: 1514/udp  
-- Registro de agentes: 1515/tcp  
-- Dashboard: 443/tcp  
-
 ---
 
 ## Tecnologías utilizadas
